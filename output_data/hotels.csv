@@ -1,0 +1,290 @@
+City,Country,Lat,Lng,Humidity,Hotel Name
+cidreira,BR,-30.1811,-50.2056,80,Hotel Castelo
+ghanzi,BW,-21.5667,21.7833,36,Ghanzi farmhouse
+dakar,SN,14.6937,-17.4441,88,翁记小吃
+airai,TL,-8.9266,125.4092,91,No hotel found
+bredasdorp,ZA,-34.5322,20.0403,57,Victoria Hotel
+mataura,NZ,-46.1927,168.8643,50,No hotel found
+progreso,MX,21.2833,-89.6667,55,Centro Vacacional Obrero CTM
+arraial do cabo,BR,-22.9661,-42.0278,83,No hotel found
+mar del plata,AR,-38.0023,-57.5575,88,Nuevo Ostende
+cabo san lucas,MX,22.8909,-109.9124,25,Comfort Rooms
+karratha,AU,-20.7377,116.8463,63,Karratha International Hotel
+ribeira grande,PT,38.5167,-28.7,77,Hospedaria JSF - 3 Estrelas
+auki,SB,-8.7676,160.7034,68,No hotel found
+bluff,NZ,-46.6,168.3333,76,No hotel found
+east london,ZA,-33.0153,27.9116,85,No hotel found
+port elizabeth,ZA,-33.918,25.5701,88,Waterford Hotel
+mahebourg,MU,-20.4081,57.7,73,Grand Bel Air
+lebu,CL,-37.6167,-73.65,79,No hotel found
+busselton,AU,-33.65,115.3333,67,Broadwater Beach Resort
+rocha,UY,-34.4833,-54.3333,44,Hotel Municipal
+port lincoln,AU,-34.7333,135.8667,63,Boston Hotel
+cape town,ZA,-33.9258,18.4232,85,Townhouse Hotel
+agadir,MA,30.4202,-9.5982,37,Atlantic
+vaini,TO,-21.2,-175.2,74,Keleti International Resort
+marawi,PH,7.9986,124.2928,92,Marawi Resort Hotel
+saint george,US,37.1041,-113.5841,24,"The Advenire, an Autograph Collection Hotel"
+castro,BR,-24.7911,-50.0119,92,Hotel Central Palace
+altamira,BR,-3.2033,-52.2064,92,Hotel Vale do Xingu
+florianopolis,BR,-27.6146,-48.5012,76,Pousada Caminho da Lagoa
+sao filipe,CV,14.8961,-24.4956,78,Bela Vista
+oistins,BB,13.0667,-59.5333,69,The Abidah By Accra
+chuy,UY,-33.6971,-53.4616,64,Alerces
+prainha,BR,-1.8,-53.48,70,No hotel found
+port blair,IN,11.6667,92.75,88,Andaman Ocean Breeze
+kapaa,US,22.0752,-159.319,77,Pono Kai Resort
+new norfolk,AU,-42.7826,147.0587,57,Woodbridge on the Derwent
+bengkulu,ID,-3.8004,102.2655,82,Dena Hotel
+hilo,US,19.7297,-155.09,94,Dolphin Bay Hotel
+rikitea,PF,-23.1203,-134.9692,66,Chez Bianca & Benoit
+sorong,ID,-0.8833,131.25,81,Hotel Membramo Marina
+butaritari,KI,3.0707,172.7902,84,No hotel found
+daru,PG,-9.0763,143.2092,70,Kuki
+port alfred,ZA,-33.5906,26.891,96,No hotel found
+port-gentil,GA,-0.7193,8.7815,89,Tara-Mé
+hobart,AU,-42.8794,147.3294,60,Vibe Hotel Hobart
+gobabis,,-22.45,18.9667,24,Kalahari Convention Centre Hotel
+victoria,HK,22.2855,114.1577,92,四季酒店 Four Seasons Hotel
+the valley,AI,18.217,-63.0578,73,CeBlue
+souillac,MU,-20.5167,57.5167,73,Hotel SkylineInn
+padang,ID,-0.9492,100.3543,83,losmen Surya
+port pirie,AU,-33.1833,138.0167,41,Ellen Hotel
+carnarvon,AU,-24.8667,113.6333,66,No hotel found
+snyder,US,32.7179,-100.9176,10,Days Inn
+namibe,AO,-15.1961,12.1522,77,Hotel Chik Chik Namibe
+poum,NC,-20.2333,164.0167,63,No hotel found
+saldanha,ZA,-33.0117,17.9442,94,Hoedjesbaai
+hermanus,ZA,-34.4187,19.2345,82,Aloe guest house
+bubaque,GW,11.2833,-15.8333,78,Chez Julio
+vila franca do campo,PT,37.7167,-25.4333,88,Vinha d'Areia Beach Hotel
+geraldton,AU,-28.7667,114.6,88,Ocean Centre Hotel
+guarapari,BR,-20.6667,-40.4975,84,Osmar Hotel
+georgetown,MY,5.4112,100.3354,93,Page 63 hostel
+yeppoon,AU,-23.1333,150.7333,60,Blossom's on Seaspray
+atar,MR,20.5169,-13.0499,34,فندق سكليل
+ancud,CL,-41.8697,-73.8203,66,Cabañas
+puerto ayora,EC,-0.7393,-90.3518,88,Hostal La Mirada De Solitario George
+itoman,JP,26.1247,127.6694,94,No hotel found
+kahului,US,20.8947,-156.47,74,Maui Seaside Hotel
+pangkalanbuun,ID,-2.6833,111.6167,97,Hotel Tiara
+mount isa,AU,-20.7333,139.5,30,Ibis Styles
+muli,MV,2.9167,73.5667,65,Mulaku
+buraydah,SA,26.326,43.975,34,دنا للوحدات السكنية
+porto novo,BJ,6.4965,2.6036,86,Hôtel 6500 CFA
+salalah,OM,17.0151,54.0924,60,Muscat International Hotel
+sibolga,ID,1.7427,98.7792,87,Hotel Prima Indah
+dubbo,AU,-32.25,148.6167,64,Blue Gum Motel
+tautira,PF,-17.7333,-149.15,78,No hotel found
+inhambane,MZ,-23.865,35.3833,88,Hotel de Inhambane
+iaciara,BR,-14.0958,-46.6317,55,No hotel found
+tres passos,BR,-27.4556,-53.9319,35,Imperial
+saint-philippe,RE,-21.3585,55.7679,81,Le Baril
+gwadar,PK,25.1216,62.3254,56,Sadaf Resorts
+coruripe,BR,-10.1256,-36.1756,74,No hotel found
+neiafu,TO,-18.65,-173.9833,83,Port Wine Guest House
+bumba,CD,2.1833,22.4667,40,No hotel found
+bathsheba,BB,13.2167,-59.5167,69,Atlantis Hotel
+kirakira,SB,-10.4544,161.9205,72,No hotel found
+vao,NC,-22.6667,167.4833,63,Nataiwatch
+namatanai,PG,-3.6667,152.4333,83,Namatanai Hotel
+pontianak,ID,-0.0333,109.3333,100,Golden Tulip Hotel
+leticia,CO,-4.2153,-69.9406,100,Waira Suites
+sinnamary,GF,5.3833,-52.95,90,Hôtel du fleuve
+makakilo city,US,21.3469,-158.0858,58,Embassy Suites by Hilton Oahu Kapolei
+berea,US,41.3662,-81.8543,39,Courtyard by Marriott Cleveland Airport South
+samarai,PG,-10.6167,150.6667,75,No hotel found
+valparaiso,CL,-33.0393,-71.6273,60,Ibis Hotel
+bolobo,CD,-2.1667,16.2333,85,No hotel found
+port augusta,AU,-32.5,137.7667,46,Hotel Commonwealth
+acoyapa,NI,11.9703,-85.1711,52,No hotel found
+nouadhibou,MR,20.931,-17.0347,82,Hotel valencia
+labuhan,ID,-6.8844,112.2051,87,No hotel found
+nicoya,CR,10.1483,-85.452,50,Hotel marianela
+wattegama,LK,6.7989,81.4808,95,No hotel found
+ahipara,NZ,-35.1667,173.1667,93,YHA Ahipara
+modasa,IN,23.4667,73.3,21,No hotel found
+lata,PT,40.1629,-8.3327,69,Residencial Botânico
+cooma,AU,-36.2333,149.1333,60,Royal Hotel
+bambous virieux,MU,-20.3428,57.7575,73,Otentic Eco Tent Experience
+kaitangata,NZ,-46.2817,169.8464,54,Hotel South Otago
+rio gallegos,AR,-51.6226,-69.2181,33,Amérian Río Gallegos Apart & Suites
+lagoa,PT,39.05,-27.9833,70,Casa da Madrinha
+canico,PT,32.6333,-16.85,83,Dom Pedro
+los llanos de aridane,ES,28.6585,-17.9182,78,Valle Aridane
+cayenne,GF,4.9333,-52.3333,94,Central Hôtel
+pekan,MY,3.4836,103.3996,90,Ancasa Royale Hotel
+te anau,NZ,-45.4167,167.7167,56,Lakeside Motels & Apartments
+laguna,US,38.421,-121.4238,30,Holiday Inn Express & Suites
+mount gambier,AU,-37.8333,140.7667,55,The Old Mount Gambier Gaol
+tomatlan,MX,19.9333,-105.25,30,Hotel Hacienda Vieja Tomatlan
+yellandu,IN,17.6,80.3333,30,No hotel found
+ponta do sol,PT,32.6667,-17.1,69,Estalagem Ponta do Sol
+pacifica,US,37.6138,-122.4869,66,Holiday Inn Express & Suites Pacifica
+marsa matruh,EG,31.3525,27.2453,54,صقور
+najran,SA,17.4924,44.1277,51,No hotel found
+chitungwiza,ZW,-18.0127,31.0756,84,No hotel found
+suyan,PH,6.0603,125.3853,87,No hotel found
+broken hill,AU,-31.95,141.4333,38,Ibis Styles
+huitziltepec,MX,17.8167,-99.4667,24,No hotel found
+arlit,NE,18.7369,7.3853,23,No hotel found
+batemans bay,AU,-35.7167,150.1833,74,Esplanade Hotel
+henties bay,,-22.116,14.2845,85,Huis Klipdrift
+san buenaventura,MX,27.0833,-101.5333,18,Hotel Casa Bonita
+faya,SA,18.3851,42.4509,37,No hotel found
+kathu,TH,7.9178,98.3332,76,Tinidee Hotel
+bud,US,39.447,-86.1758,42,No hotel found
+san vicente,AR,-26.6167,-54.1333,58,Los Lapachos
+totness,SR,5.8833,-56.3167,84,No hotel found
+watsa,CD,3.0372,29.5355,32,No hotel found
+vanimo,PG,-2.6741,141.3028,85,CBC Guesthouse
+santo antonio do ica,BR,-3.1022,-67.9397,95,No hotel found
+tuatapere,NZ,-46.1333,167.6833,60,No hotel found
+mapiripan,CO,2.8892,-72.1256,42,No hotel found
+itarema,BR,-2.9248,-39.9167,82,Pousada Oásis
+vila velha,BR,-20.3297,-40.2925,88,Hotel Prainha
+rio verde de mato grosso,BR,-18.9181,-54.8442,96,No hotel found
+kyaikkami,MM,16.08,97.5675,72,ရှုခင်းသာ
+luderitz,,-26.6481,15.1594,93,Seaview Hotel Zum Sperrgebiet
+abu dhabi,AE,24.4667,54.3667,60,Marriott Downtown Abu-Dhabi
+atuona,PF,-9.8,-139.0333,78,Pearl Resort
+jieshi,CN,22.8134,115.8257,92,No hotel found
+maputo,MZ,-25.9653,32.5892,89,Mozaika
+kruisfontein,ZA,-34.0033,24.7314,80,No hotel found
+acarau,BR,-2.8856,-40.12,82,No hotel found
+pisco,PE,-13.7,-76.2167,65,La Portada
+cumana,VE,10.4635,-64.1775,84,Hotel Regina
+tual,ID,-5.6667,132.75,79,Suita
+tripoli,LY,32.8752,13.1875,69,الاصيل
+ankazoabo,MG,-22.2833,44.5167,93,No hotel found
+riyadh,SA,24.6877,46.7219,31,White Palace Hotel
+presidente epitacio,BR,-21.7633,-52.1156,86,Pousada Orla do Sol
+saint-pierre,RE,-21.3393,55.4781,69,Tropic Hotel
+avarua,CK,-21.2078,-159.775,74,Paradise Inn
+balogo,PH,10.8868,124.7105,88,Scandinavian Hotel
+miracema do tocantins,BR,-9.5618,-48.3967,65,No hotel found
+coihaique,CL,-45.5752,-72.0662,44,No hotel found
+tura,IN,25.5198,90.2201,49,No hotel found
+pemangkat,ID,1.1667,108.9667,86,Hotel Kelapa Gading
+kavieng,PG,-2.5744,150.7967,79,Kavieng Hotel
+mananjary,MG,-21.2167,48.3333,83,Ideal Hotel Annexe
+sawakin,SD,19.1059,37.3321,77,Hotel Halfa
+balao,EC,-2.9167,-79.8167,75,Hostal del Rio
+faanui,PF,-16.4833,-151.75,75,Oa Oa Lodge
+amarillo,US,35.222,-101.8313,15,Embassy Suites
+puerto escondido,MX,15.85,-97.0667,69,Hotel Barlovento
+jacareacanga,BR,-6.2222,-57.7528,98,Hotel São Cristovão
+cairns,AU,-16.9167,145.7667,82,Cairns Queens Court Accommodation
+thabazimbi,ZA,-24.5917,27.4116,58,Maroela Guest Lodge
+fortuna,US,40.5982,-124.1573,79,Comfort Inn & Suites Redwood Country
+opuwo,,-18.0607,13.84,40,Ohakane Lodge
+cururupu,BR,-1.8283,-44.8683,93,No hotel found
+canavieiras,BR,-15.675,-38.9472,86,No hotel found
+ouadda,CF,8.0777,22.4007,20,No hotel found
+araouane,ML,18.9048,-3.5265,13,No hotel found
+caravelas,BR,-17.7125,-39.2481,86,Pousada dos Navegantes
+marzuq,YE,14.4,46.4667,10,No hotel found
+boa vista,BR,2.8197,-60.6733,54,Aipana Plaza Hotel
+touros,BR,-5.1989,-35.4608,77,Pousada Atlântico
+half moon bay,US,37.4636,-122.4286,65,Half Moon Bay Inn
+chicama,PE,-7.8447,-79.1469,69,Hotel Wasi
+rio grande,BR,-32.035,-52.0986,75,Hotel Vila Moura Executivo
+barcelos,PT,41.5388,-8.6151,64,Hotel Dom Nuno
+livingstonia,MW,-10.606,34.1063,79,Lukwe Lodge
+biak,ID,-0.9131,122.8766,77,No hotel found
+wanning,CN,18.8003,110.3967,95,No hotel found
+adrar,MR,20.5022,-10.0711,13,No hotel found
+pa sang,TH,18.5262,98.9394,40,เฮือน คันนา รีสอร์ท
+kieta,PG,-6.2167,155.6333,75,No hotel found
+christchurch,NZ,-43.5333,172.6333,62,Ibis Hotel Christchurch
+moanda,GA,-1.5575,13.2178,84,Matsissa
+rawson,AR,-43.3002,-65.1023,81,Hotel Deportivo
+aswan,EG,24.0934,32.907,33,Yaseen hotel
+mackay,AU,-21.15,149.2,70,Mackay Oceanside Central Apartment Hotel
+hithadhoo,MV,-0.6,73.0833,68,Pebbles Inn
+merauke,ID,-8.4667,140.3333,79,Coreinn
+tres picos,MX,15.8667,-93.5333,43,Hotel Tres Picos
+apple valley,US,34.5008,-117.1859,26,Apple Valley Inn
+codrington,AU,-38.2667,141.9667,61,No hotel found
+oranjemund,,-28.55,16.4333,93,Op My Stoep
+san patricio,US,28.017,-97.5169,49,No hotel found
+camacha,PT,33.0833,-16.3333,82,Praia Dourada
+praia da vitoria,PT,38.7333,-27.0667,72,Salles
+la macarena,CO,2.1837,-73.7849,49,Muñoz
+nsanje,MW,-16.92,35.262,92,No hotel found
+isangel,VU,-19.55,169.2667,89,Tanna Lodge
+keti bandar,PK,24.1447,67.4497,26,No hotel found
+coatepec harinas,MX,18.8949,-99.7215,32,No hotel found
+formosa do rio preto,BR,-11.0483,-45.1931,53,Pousada Universo - Formosa do Rio Preto BA
+mumford,GH,5.2618,-0.759,90,Blue Diamond Beach Spa Resort
+mineros,BO,-17.1167,-63.2333,81,No hotel found
+bom jesus,BR,-9.0744,-44.3586,31,Hotel Brasão
+sarandi,BR,-23.4436,-51.8739,94,San Lucas Hotel
+dwarka,IN,22.2394,68.9678,56,The Dwarika Hotel
+collie,AU,-33.3667,116.15,72,Ridge Motel
+lajong,PH,12.8333,123.9667,90,No hotel found
+hambantota,LK,6.1241,81.1185,85,Oasis Aurweda Resort Hambathota
+tamandare,BR,-8.7597,-35.1047,81,Pousada Baia dos Corais
+pyapon,MM,16.2833,95.6833,89,No hotel found
+basoko,CD,1.2391,23.616,41,No hotel found
+bawku,GH,11.0616,-0.2417,11,No hotel found
+tiarei,PF,-17.5333,-149.3333,77,No hotel found
+taoudenni,ML,22.6783,-3.9836,25,No hotel found
+simpang,ID,-1.2667,104.0833,96,No hotel found
+pouebo,NC,-20.4,164.5667,55,No hotel found
+luorong,CN,24.4058,109.6086,84,No hotel found
+plettenberg bay,ZA,-34.0527,23.3716,87,Milkwood Manor
+cuamba,MZ,-14.8031,36.5372,94,Pensao Cariaco
+neuquen,AR,-38.9516,-68.0591,24,Hotel Argentina 307
+nova olimpia,BR,-14.7972,-57.2881,84,Olímpia Hotel
+paita,PE,-5.0892,-81.1144,76,Victor's
+monrovia,LR,6.3005,-10.7969,91,Bella Casa Hotel
+payo,ID,-3.7508,103.6372,80,No hotel found
+charagua,BO,-19.8,-63.2167,65,No hotel found
+ciudad bolivar,VE,8.1222,-63.5497,55,Paoca
+vilhena,BR,-12.7406,-60.1458,73,No hotel found
+dingle,PH,10.9995,122.6711,92,Hotel Edmundo
+richards bay,ZA,-28.783,32.0377,89,Protea Hotel
+itacoatiara,BR,-3.1431,-58.4442,89,Regine's Hotel
+rundu,,-17.9333,19.7667,50,Kavango River Lodge
+kulhudhuffushi,MV,6.6221,73.07,67,No hotel found
+nishihara,JP,26.1842,127.7558,94,ユインチホテル南城
+wukari,NG,7.85,9.7833,15,No hotel found
+bandarbeyla,SO,9.4942,50.8122,67,No hotel found
+kalianget,ID,-7.05,113.9333,85,No hotel found
+mangai,CD,-4.05,19.5333,91,No hotel found
+muriti,TZ,-1.9833,32.9167,74,No hotel found
+manta,EC,-0.95,-80.7333,65,La Gaviota
+ambilobe,MG,-13.2,49.05,89,Hôtel National
+sumter,US,28.7086,-82.0831,72,Bushnell Inn
+pacific grove,US,36.6177,-121.9166,73,Pacific Grove Inn
+alofi,NU,-19.0595,-169.9187,89,Matavai Resort
+melilla,ES,35.2937,-2.9383,77,Rusadir
+dubti,ET,11.7361,41.0853,57,አግዳ
+kapoeta,SS,4.7717,33.5903,18,Kuleu
+elizabeth city,US,36.2946,-76.2511,97,Quality Inn
+ekuvukeni,ZA,-28.4675,30.1551,85,No hotel found
+ruteng,ID,-8.6136,120.4721,90,No hotel found
+sungairaya,ID,0.7,108.9,90,No hotel found
+miraflores,MX,19.2167,-98.8083,39,Hotel Hacienda Panoaya
+port shepstone,ZA,-30.7414,30.455,87,The Spot Backpackers'
+san borja,BO,-14.8167,-66.85,93,No hotel found
+hualmay,PE,-11.0964,-77.6139,80,Hotel Mi Choacan
+novo aripuana,BR,-5.1206,-60.3797,96,Hotel Novo Aripuanã
+antofagasta,CL,-23.65,-70.4,78,Hotel Colón
+sao joao da barra,BR,-21.6403,-41.0511,87,Pousada Mediterrâneo
+galesong,ID,-5.3166,119.3661,90,No hotel found
+maracacume,BR,-2.0428,-45.9592,97,No hotel found
+wamba,NG,8.9333,8.6,15,No hotel found
+pompeu,BR,-19.2244,-44.9353,90,No hotel found
+san cristobal,VE,7.7669,-72.225,69,Terra Sur
+meadow lake,US,34.8014,-106.5436,18,No hotel found
+noumea,NC,-22.2763,166.4572,99,Hotel Gondwana
+russellville,US,35.2784,-93.1338,26,Holiday Inn
+pendencias,BR,-5.26,-36.7222,59,No hotel found
+mahanje,TZ,-9.9333,35.3333,92,No hotel found
+tecolutla,MX,20.4833,-97.0167,60,Hotel Albri by Rotamundos
+cartagena,CO,10.3997,-75.5144,65,Hotel Bellamar
+yulara,AU,-25.2406,130.9889,20,Outback Pioneer Hotel & Lodge
+catabola,AO,-12.15,17.2833,98,No hotel found
+yabelo,ET,4.8833,38.0833,24,"250birr with slow WiFi,shower,water"
